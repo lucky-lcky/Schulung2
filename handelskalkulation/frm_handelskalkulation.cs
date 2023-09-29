@@ -12,6 +12,7 @@ namespace handelskalkulation
 {
     public partial class frm_handelskalkulation : Form
     {
+        string test = "Test";
         // // klassenweite Variablen für Vorwärtskalkulation
         double nettolisteneinkaufspreis = 262.15;
         double lieferantenrabattsatz = 3;
